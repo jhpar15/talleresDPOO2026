@@ -1,0 +1,37 @@
+{
+    "aviones": [{
+        "nombre": "Boeing 737",
+        "capacidad": 150
+    }],
+    "vuelos": [
+        {
+            "fecha": "2024-11-05",
+            "codigoRuta": "4558",
+            "nombreAvion": "Boeing 737"
+        },
+        {
+            "fecha": "2024-12-24",
+            "codigoRuta": "4558",
+            "nombreAvion": "Boeing 737"
+        }
+    ],
+    "rutas": [{
+        "codigo": "4558",
+        "llegada": "11:30",
+        "origen": {
+            "codigo": "BOG",
+            "latitud": 4.701,
+            "longitud": -74.146,
+            "ciudad": "Bogotá",
+            "nombre": "El Dorado"
+        },
+        "destino": {
+            "codigo": "MDE",
+            "latitud": 6.164,
+            "longitud": -75.423,
+            "ciudad": "Medellín",
+            "nombre": "José María Córdova"
+        },
+        "salida": "10:00"
+    }]
+}

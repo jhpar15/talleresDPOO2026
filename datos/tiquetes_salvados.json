@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "tipo": "Corporativo",
+      "tamanoEmpresa": 2,
+      "nombreEmpresa": "Boeing"
+    },
+    {
+      "tipo": "Corporativo",
+      "tamanoEmpresa": 3,
+      "nombreEmpresa": "Apple"
+    },
+    {"nombre": "Bob"},
+    {"nombre": "Alice"}
+  ],
+  "tiquetes": [{
+    "fecha": "2024-11-05",
+    "tarifa": 450000,
+    "cliente": "Bob",
+    "codigoRuta": "4558",
+    "usado": false,
+    "codigoTiquete": "8769647"
+  }]
+}
